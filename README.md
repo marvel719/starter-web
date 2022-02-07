@@ -16,3 +16,7 @@
 
 
 ## projects
+
+### copyright
+
+git.training.com"
